@@ -32,3 +32,9 @@ text-align: left;
 #number1 , #number2{
      color:cadetblue;
 }
+
+.numbers{
+	width:10%;
+	height:30px;
+	
+}
